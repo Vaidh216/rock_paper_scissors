@@ -14,3 +14,5 @@ while True:
 
     random_number = random.randint(0,2)
     #rock:0, paper: 1, scissors:2
+
+    print("hello")
